@@ -9,11 +9,12 @@ the file you wish to run, and find the setup file through cmd file using 'cd' an
 In order to run the program, just click on the separate .exe files inside Monitor_KL2 and Decryptor.
 
 KL2 - This is the overall monitoring software - 
-There is an options list which tells you exactly what to do upon starting the program
-It uses pyHook and pythoncom to find and record keystrokes
-PIL to take screenshots
-Pycrypto to encrypt the monitoring file using AES-CBC
-MIME to send the files through email - to access the files after the process is complete log into 
+There is an options list which tells you exactly what to do upon starting the program.
+It uses pyHook and pythoncom to find and record keystrokes.
+PIL to take screenshots.
+Pycrypto to encrypt the monitoring file using AES-CBC.
+MIME to send the files through email - to access the files after the process is complete go to gmail and log in with 
+
 Username: - mmukeylogger@gmail.co.uk
 Password: - keylogged
 
