@@ -1,5 +1,5 @@
 # 12104714-Student-Monitoring
-Student Monitoring Program
+Student Monitoring Program -- 
 In order to edit the program different modules are required - py2win, pyHook, PIL, MIME and pycrypto for IDLE
 After editing - py2exe must be used in order for the program to work on other machines without the above modules
 needing to be installed. The way you do this is through the cmd line, you change the code in 'setup' to represent
