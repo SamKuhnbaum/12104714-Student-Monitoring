@@ -4,7 +4,7 @@ from Crypto.Cipher import AES
 # Decryption Settings
 INFILE = "enkeylog.txt"
 OUTFILE = "dekeylog.txt"
-key = '7070707070707070'
+key = 'k3yl0gg3r3dI0I37'
 
 
 def AESDecryption(k, in_file, out_file, chunksize=24*1024):
